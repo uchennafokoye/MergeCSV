@@ -1,0 +1,5 @@
+.idea
+.DS_Store
+/result
+/asset/*
+/test_files/*
